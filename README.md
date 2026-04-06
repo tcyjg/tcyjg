@@ -2,8 +2,7 @@
 我是 tcyjg 目前是一名大三的学生，主要学习后端知识，主修java。善于发现身边需求，思考解决问题，致力于减少生活中繁琐的事情。Simplify Your Life
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Originator+Of+Creative +Ideas
-;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Originator+Of+Creative+Ideas;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 
@@ -50,7 +49,9 @@
 ## 🤝 联系方式
 有任何问题欢迎与我沟通交流！
 - **qq:2826079730**
-- **邮箱（email）：tomc520@gmail.com**
+- **微信:tcyjg1103**
+- **邮箱1（email）：2826079730@qq.com**
+- **邮箱2（email）：tomc520@gmail.com**
 
 
 
